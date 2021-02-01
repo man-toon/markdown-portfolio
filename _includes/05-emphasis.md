@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### SKILLS:
+**_Knows Python_** :snake:
+*Can say the alphabet backward reasonably fast*
+**Has pet many dogs**
